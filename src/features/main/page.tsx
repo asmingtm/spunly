@@ -5,7 +5,7 @@ import "./styles/page.css";
 export function MainPage() {
     return (
         <main className="page-main">
-            <PageHeader label="Spinly" />
+            <PageHeader label="Spunly" />
             <SpinnerWheel />
             <ActionsSection />
             <InputSection />
