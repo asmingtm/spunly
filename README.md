@@ -15,13 +15,17 @@ Unchecked options are those options that appear in the wheel. Crossing a option 
 An option contains several properties like `background`, `border`, `label` and `weight`. 
 
 1. Background
+
 It is color of the option, it is picked smartly by default but can be changed independently. You can also create custom gradients as well use images as a background.
 
 0. Border
+
 The border of the option in the wheel. You can set the `thickness`, `style` and `color` for it.
 
 0. Label
+
 This is the message written on the option. You can add multiple labels to a option amd they can also be images, sickers, PNG or GIFS.
 
 0. Weight
+
 It is how big the option appears on the wheel. The weight of all options are 1 by default and it appears bigger, the larger the number is given.
