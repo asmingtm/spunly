@@ -1,7 +1,7 @@
 # Spunly
 A website where you can put options in a wheel and spin it to get random results.
 
-### How to use
+## How to use
 1. Create a new Wheel and open it.
 0. Add options in the OptionList section.
 0. Use swipe gestures or click the center of the wheel to spin it.
@@ -14,18 +14,15 @@ Unchecked options are those options that appear in the wheel. Crossing a option 
 #### Wheel's Option
 An option contains several properties like `background`, `border`, `label` and `weight`. 
 
-1. Background
+|Property|Description|
+|-|-|
+|Background|It is color of the option, it is picked smartly by default but can be changed independently. You can also create custom gradients as well use images as a background.|
+|Border|The border of the option in the wheel. You can set the `thickness`, `style` and `color` for it.|
+|Label|This is the message written on the option. You can add multiple labels to a option amd they can also be images, sickers, PNG or GIFS.|
+|Weight|It is how big the option appears on the wheel. The weight of all options are 1 by default and it appears bigger, the larger the number is given|
 
-It is color of the option, it is picked smartly by default but can be changed independently. You can also create custom gradients as well use images as a background.
+## Contributions
+All contributions are open. However, you may create `issues` for smaller ones.
 
-0. Border
-
-The border of the option in the wheel. You can set the `thickness`, `style` and `color` for it.
-
-0. Label
-
-This is the message written on the option. You can add multiple labels to a option amd they can also be images, sickers, PNG or GIFS.
-
-0. Weight
-
-It is how big the option appears on the wheel. The weight of all options are 1 by default and it appears bigger, the larger the number is given.
+## Liscence
+##### Open source & free to use 
