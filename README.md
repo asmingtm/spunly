@@ -8,8 +8,8 @@ A website where you can put options in a wheel and spin it to get random results
 0. The harder you swipe or the longer you press the center, the faster the wheel spins.
 0. Once it lands on a result, either cross the option or continue with it.
 
-#### Crossing & Unchecking
-Unchecked options are those options that appear in the wheel. Crossing a option simply removes it off the wheel but stull remains in the option list where you can choose to manually check it back.
+#### Checked
+Unchecked options are those options that appear in the wheel. Checking a option simply removes it off the wheel but still remains in the option list where you can choose to manually check it back.
 
 #### Wheel's Option
 An option contains several properties like `background`, `border`, `label` and `weight`. 
